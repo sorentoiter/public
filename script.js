@@ -1,1 +1,1 @@
-(function go(){console.log("Hello world");})();
+(function go(){location.assign("https://google.com");})();
