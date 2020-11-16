@@ -1,1 +1,1 @@
-console.log("Hello world")
+(function go(){console.log("Hello world");})();
